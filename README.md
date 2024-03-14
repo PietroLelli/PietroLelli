@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi, I'm Pietro Lelli!     
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHdpZWVodm1md3RiYmpyMGNlZXJpNWd6aGFqaXdvc3dvaWZxdDBtMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xT9Igoe79R16unU7cc/giphy.gif" width="50"/> 
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmQwMzBmdTk2Zmt2NWdleG5qOXhvM3ltcnRqcGEwcGpiaGw1bHF1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/juua9i2c2fA0AIp2iq/giphy.gif" width="50"/> 
 </h1>
 
 <p align="center">

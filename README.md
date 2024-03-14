@@ -14,13 +14,51 @@
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,html,css,java,scala,c,cpp,cs,py,php,latex,md,gherkin" alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=scala" title="Scala" alt="Scala" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" />
+  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" />
+  <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=latex" title="LaTeX" alt="LaTeX" />
+  <img src="https://skillicons.dev/icons?i=md" title="Markdown" alt="Markdown" />
+  <img src="https://skillicons.dev/icons?i=gherkin" title="Gherkin" alt="Gherkin" />
+
 </p>
 
 <h3 align="center">Technologies, Frameworks & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,nodejs,expressjs,vuejs,docker,git,github,githubactions,gitlab,jest,react,postman,figma,bootstrap,firebase, idea, discord, mongodb, notion, " alt="skills logos" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" alt="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJs" alt="NodeJs" />
+  <img src="https://skillicons.dev/icons?i=expressjs" title="Express" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=vuejs" title="VueJs" alt="VueJs" />
+  <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=githubactions" title="GitHub Actions" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" alt="GitLab" />
+  <img src="https://skillicons.dev/icons?i=jest" title="Jest" alt="Jest" />
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma" alt="Figma" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" alt="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=firebase" title="Firebase" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=idea" title="Idea" alt="Idea" />
+  <img src="https://skillicons.dev/icons?i=webstorm" title="WebStorm" alt="WebStorm" />
+  <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" alt="PyCharm" />
+  <img src="https://skillicons.dev/icons?i=discord" title="Discord" alt="Discord" />
+  <img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" alt="MongoDB" />
+  
+  
+  
+
+
+
+
 </p>
 
 <h3 align="center">Stats</h3>

@@ -61,20 +61,6 @@
 
 </p>
 
-<h3 align="center">Stats</h3>
-
-<p align="center">
-  <a href="https://streak-stats.demolab.com/?user=PietroLelli&theme=dark">
-    <img src="https://streak-stats.demolab.com/?user=PietroLelli&theme=dark" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroLelli&langs_count=30&theme=dracula&bg_color=135,0F2027,203A43,2C5364&layout=compact" alt="Top Langs" />
-  </a>
-</p>
-
 <h2 align="center">Contacts</h2>
 
 <div align="center" id="badges">
